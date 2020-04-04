@@ -1,0 +1,31 @@
+body {
+	background-image: url('../p6.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: fixed;
+}
+
+input[type="text"]:focus {
+	width: 500px;
+	background-color: #003333;
+}
+
+input[type="text"] {
+	width: 500px;
+	box-sizing: border-box;
+	border:  1px solid black;
+	border-radius: 4px;
+	outline: none;
+	padding: 12px 14px;
+	margin: -50px auto;
+	margin-left: 450px;
+}
+
+div {
+	font-family: cursive;
+	font-size: 60px;
+	color: #003333;
+	float: right;
+	margin-left: 0px;
+	margin-left: 270px;
+}
