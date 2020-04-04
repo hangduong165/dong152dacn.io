@@ -1,5 +1,5 @@
 {
-  "name": "Smart Search",
+  "name": "Xây dựng tiện ích mở rộng cho trình duyệt Chrome hỗ trợ xác định độ tuổi phù hợp để truy cập website",
   "description": "Extension For You",
   "version": "1.0",
   "browser_action": {
