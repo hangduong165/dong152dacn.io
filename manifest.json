@@ -16,7 +16,7 @@
     {
     "matches": ["https://*.zendvn.com/*"],
     "css":["myStyle.css"],
-    "js":["contentScript.js"]
+    "js":["popup.js"]
     }
   ]
 }
